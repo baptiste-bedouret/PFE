@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width" />
+  <title>Session d'Évaluation</title>
+  <link rel="stylesheet" href="front/css/experiment-style.css" />
+    <script src="front/js/script.js"></script>
+    <script src="front/js/csv-operation.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js" integrity="sha512-SGWgwwRA8xZgEoKiex3UubkSkV1zSE1BS6O4pXcaxcNtUlQsOmOmhVnDwIvqGRfEmuz83tIGL13cXMZn6upPyg=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body onload="displayFirstImage(0)">
+    <div id="container">
+        <div class="images">
+            <img id="img" alt="Sample Image" src="">
+            <img id="superimposed" alt="Sample Superimposed image" src="">
+        </div>
+        <div class="text">
+            <div class="cls">
+                <p class="titles"><strong>Ground Truth</strong></p>
+                <div id="ground_tr">
+                </div>
+            </div>
+            <div class="cls">
+                <p class="titles"><strong>Classification</strong></p>
+                <p id="classification" type="text"></p>
+            </div>
+            <div id="form">
+                <table id="table">
+                    <thead>
+                    <tr>
+                        <p class="titles"><strong>Map quality</strong></p>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>
+                            <div>
+                                <input type="radio" class="form-control" id="excellent" name="scale" onclick="choiceControl(this);">
+                                <label for="excellent"><div></div></label>
+                                Excellent
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <input type="radio" class="form-control" id="good" name="scale" onclick="choiceControl(this);">
+                                <label for="good"><div></div></label>
+                                Good
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <input type="radio" class="form-control" id="fair" name="scale" onclick="choiceControl(this);">
+                                <label for="fair"><div></div></label>
+                                Fair
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <input type="radio" class="form-control" id="poor" name="scale" onclick="choiceControl(this);">
+                                <label for="poor"><div></div></label>
+                                Poor
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <input type="radio" class="form-control" id="bad" name="scale" onclick="choiceControl(this);">
+                                <label for="bad"><div></div></label>
+                                Bad
+                            </div>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div id="div_test">
+        <h2 id="test" class= "eval"></h2>
+        <button id="button" class="control" onclick="displayNewImage()">Start</button>
+    </div>
+    <div id ="dbutton" class="button" onclick="save(); window.location.href='controller.php?to=deconnexion';">Déconnexion</div>
+</body>
+</html>

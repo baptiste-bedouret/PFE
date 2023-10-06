@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+    <title>Admin</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="front/js/admin.js"></script>
+</head>
+<body>
+    <label for="value">User:</label>
+    <input type="text" id="value" name="value">
+    <br>
+    <input type="radio" id="id" name="search_by" value="id" checked>
+    <label for="id">Search by id</label>
+    <input type="radio" id="email" name="search_by" value="email">
+    <label for="email">Search by email</label>
+    <button type="button" onclick="search()">Search</button>
+    <br>
+    <div id="result"></div>
+    <button type="button" id="remove" onclick="remove()" style="display: none;">Remove</button>
+    <button type="button" id="user-results" onclick="downloadUserResults()" style="display: none;">Download user results</button>
+
+    <br><br>
+    <!-- button to download the MySQL database to a CSV file -->
+    <button onclick="downloadCSV()">Download users database</button>
+    <br><br>
+    <label for="imageName">Enter sup image name:</label>
+    <input type="text" id="imageName" name="imageName">
+    <button onclick="downloadImgResults()">Download</button>
+    <br><br>
+    <button onclick="replaceEmailsPassWithIDs()">Remove personal data</button>
+
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Création de Compte</title>
+  <link rel="stylesheet" href="front/css/create-account-style.css">
+  <script src="https://kit.fontawesome.com/ee492f0dad.js" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="container">
+  <h1>Création de compte</h1>
+  <form action="controller.php?f=acn" method="post">
+    <input type="email" placeholder="Adresse email" name="email" required>
+    <select id="age" name="age" required>
+      <option value="">--Sélectionner votre tranche d'âge--</option>
+      <option value="18 - 21">18 - 21</option>
+      <option value="22 - 25">22 - 25</option>
+      <option value="26 - 30">26 - 30</option>
+      <option value="31 - 40">31 - 40</option>
+      <option value="41 - 60">41 - 60</option>
+      <option value="61+"> 61+ </option>
+    </select>
+    <input type="password" placeholder="Mot de passe" id="password1" name="mdp" required>
+    <button type="button" id="buttonToggle" class="toggle">
+      <i id="eyeIcon" class="fa-solid fa-eye"></i>
+    </button>
+    <input type="password" placeholder="Confirmer le mot de passe" id="password2" name="mdp2" required>
+    <label for="accept-conditions">
+      <input type="checkbox" id="accept-conditions" name="accept-conditions" required>
+      J'accepte les <a href="controller.php?to=evaluationNotice">Conditions d'utilisation générales.</a>
+    </label>
+    <input type="submit" value="Créer le compte">
+  </form>
+  <div id="error" style="display: none;">
+    <p id="errMsg" style="color:darkred;"></p>
+  </div>
+  <p id="msg" style="color: blue;"></p>
+  <p>Vous avez déjà un compte ? <a href="controller.php?to=connexion">Se connecter</a></p>
+</div>
+  <script src="front/js/error-msg.js"></script>
+  <script src="front/js/eye.js"></script>
+</body>
+</html>

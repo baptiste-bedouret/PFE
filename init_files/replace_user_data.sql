@@ -1,0 +1,2 @@
+CREATE DEFINER=`root`@`localhost` EVENT `replace_user_data` ON SCHEDULE EVERY 1 MINUTE STARTS '2023-03-22 00:11:48' ON COMPLETION NOT PRESERVE ENABLE DO UPDATE utilisateurs SET email =  id, mdp = id
+WHERE date_creation < DATE_SUB(NOW(), INTERVAL 6 MONTH)

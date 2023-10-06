@@ -1,0 +1,99 @@
+/** Basic style **/
+* {
+	box-sizing: border-box;
+	font-family: Arial, sans-serif;
+}
+
+body {
+  	background-color: rgb(125, 125, 125);
+}
+
+/** Main container **/
+.container {
+	max-width: 500px;
+	margin: 50px auto;
+	text-align: center;
+}
+
+/** Account creation form **/
+form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 20px;
+	background-color: lightgray;
+	border-radius: 10px;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+/** Input fields **/
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="password"] {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	border-radius: 5px;
+	border: none;
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/** Submit button **/
+input[type="submit"] {
+	width: 100%;
+	padding: 10px;
+	font-size: 18px;
+	border-radius: 5px;
+	border: none;
+	background-color: royalblue;
+	color: white;
+	cursor: pointer;
+}
+
+select[name="age"] {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	border-radius: 5px;
+	border: none;
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+	background-color: white;
+}
+
+select[name="age"] option {
+	padding: 10px;
+	font-size: 18px;
+	background-color: lightgray;
+	color: black;
+}
+
+/** Links **/
+a {
+  	color: blue;
+}
+
+input[type="checkbox"] {
+  	margin-right: 10px;
+}
+
+/** Label **/
+label[for="accept-conditions"] {
+	display: block;
+	margin-bottom: 18px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+/** place the fa-solid icon to the right of the password entry **/
+.toggle{
+	position: absolute;
+	background: none;
+	border: none;
+	color: gray;
+	font-size: 1rem;
+	top: 262px;
+	margin-left: 420px;
+}

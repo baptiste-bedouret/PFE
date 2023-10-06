@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page d'Identification</title>
+    <link rel="stylesheet" href="front/css/connexion-style.css" />
+    <script src="https://kit.fontawesome.com/ee492f0dad.js" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="container">
+    <h1>Identification</h1>
+    <form action="controller.php?f=ln" method="post">
+        <input type="email" placeholder="Email" name="email">
+        <input type="password" placeholder="Mot de passe" id="password3" name="mdp">
+        <button type="button" id="buttonToggle" class="toggle">
+            <i id="eyeIcon" class="fa-solid fa-eye"></i>
+        </button>
+        <input type="submit" value="Se connecter">
+    </form>
+    <div id="error" style="display: none;">
+        <p id="errMsg" style="color:darkred;"></p>
+        <a href="controller.php?to=connexion" style="color:blue;">Récupérer votre mot de passe</a>
+    </div>
+    <p id="msg"  style="color:blue; display: block;"></p>
+    <p>Pas encore de compte ? <a href="controller.php?to=createAccount" style="color:blue;">Créer un compte</a></p>
+</div>
+<script src="front/js/error-msg.js"></script>
+<script src="front/js/eye.js"></script>
+</body>
+</html>

@@ -1,0 +1,244 @@
+Key,Noisy_image,Sup_image,Distortion,Explanation_Method,Noisy_image_class,Original_image_class
+0,COCO_train2014_000000003671_blur-k-2-0.jpg,COCO_train2014_000000003671_blur-k-2-0_GRAD-CAM_sup.jpg,blur-k-2-0,GRAD-CAM,vase,"cup_bowl_cake_dining table"
+1,COCO_train2014_000000003671_blur-k-2-0.jpg,COCO_train2014_000000003671_blur-k-2-0_FEM_sup.jpg,blur-k-2-0,FEM,vase,"cup_bowl_cake_dining table"
+2,COCO_train2014_000000003671_blur-k-2-0.jpg,COCO_train2014_000000003671_blur-k-2-0_ML-FEM_sup.jpg,blur-k-2-0,ML-FEM,vase,"cup_bowl_cake_dining table"
+146,COCO_train2014_000000000853_brightness-k-25-0.jpg,COCO_train2014_000000000853_brightness-k-25-0_ML-FEM_sup.jpg,brightness-k-25-0,ML-FEM,cake,"fork_bowl_sandwich_dining table"
+124,COCO_train2014_000000000532_brightness-k-175-0.jpg,COCO_train2014_000000000532_brightness-k-175-0_FEM_sup.jpg,brightness-k-175-0,FEM,bench,person_bus_handbag
+377,COCO_train2014_000000002270_blur-k-6-0.jpg,COCO_train2014_000000002270_blur-k-6-0_ML-FEM_sup.jpg,blur-k-6-0,ML-FEM,tv,"cup_bowl_chair_couch_potted plant_book_vase"
+224,COCO_train2014_000000001424_brightness-k-175-0.jpg,COCO_train2014_000000001424_brightness-k-175-0_ML-FEM_sup.jpg,brightness-k-175-0,ML-FEM,sink,"person_knife_cake_chair_potted plant_dining table_vase"
+425,COCO_train2014_000000002608_geometric-k-1-0.jpg,COCO_train2014_000000002608_geometric-k-1-0_ML-FEM_sup.jpg,geometric-k-1-0,ML-FEM,bed,"backpack_chair_couch_potted plant_laptop_mouse_keyboard_book"
+19,COCO_train2014_000000000110_geometric-k-1-0.jpg,COCO_train2014_000000000110_geometric-k-1-0_FEM_sup.jpg,geometric-k-1-0,FEM,person,"person_cup_fork_knife_pizza_chair_dining table"
+383,COCO_train2014_000000002281_brightness-k-100-0.jpg,COCO_train2014_000000002281_brightness-k-100-0_ML-FEM_sup.jpg,brightness-k-100-0,ML-FEM,person,person_car_refrigerator
+252,COCO_train2014_000000001558_brightness-k-25-0.jpg,COCO_train2014_000000001558_brightness-k-25-0_GRAD-CAM_sup.jpg,brightness-k-25-0,GRAD-CAM,bottle,cup_bowl_sandwich
+154,COCO_train2014_000000000965_brightness-k-25-0.jpg,COCO_train2014_000000000965_brightness-k-25-0_FEM_sup.jpg,brightness-k-25-0,FEM,person,person_skis_snowboard
+47,COCO_train2014_000000000349_blur-k-1.25-0.jpg,COCO_train2014_000000000349_blur-k-1.25-0_ML-FEM_sup.jpg,blur-k-1.25-0,ML-FEM,sink,"train_potted plant"
+185,COCO_train2014_000000001144_noise-k-100-0.jpg,COCO_train2014_000000001144_noise-k-100-0_ML-FEM_sup.jpg,noise-k-100-0,ML-FEM,chair,"person_car_backpack_handbag_wine glass_sandwich_chair_dining table"
+57,COCO_train2014_000000000382_blur-k-2-0.jpg,COCO_train2014_000000000382_blur-k-2-0_GRAD-CAM_sup.jpg,blur-k-2-0,GRAD-CAM,"cell phone",person_backpack_skis
+430,COCO_train2014_000000002608_brightness-k-175-0.jpg,COCO_train2014_000000002608_brightness-k-175-0_FEM_sup.jpg,brightness-k-175-0,FEM,person,"backpack_chair_couch_potted plant_laptop_mouse_keyboard_book"
+141,COCO_train2014_000000000731_noise-k-175-0.jpg,COCO_train2014_000000000731_noise-k-175-0_GRAD-CAM_sup.jpg,noise-k-175-0,GRAD-CAM,umbrella,person_car_umbrella
+17,COCO_train2014_000000000089_geometric-k-10-0.jpg,COCO_train2014_000000000089_geometric-k-10-0_ML-FEM_sup.jpg,geometric-k-10-0,ML-FEM,laptop,knife_microwave_oven_book
+66,COCO_train2014_000000000389_brightness-k-100-0.jpg,COCO_train2014_000000000389_brightness-k-100-0_GRAD-CAM_sup.jpg,brightness-k-100-0,GRAD-CAM,tie,person_backpack_tie
+162,COCO_train2014_000000001011_geometric-k-1-0.jpg,COCO_train2014_000000001011_geometric-k-1-0_GRAD-CAM_sup.jpg,geometric-k-1-0,GRAD-CAM,person,person_backpack_handbag_suitcase
+441,COCO_train2014_000000002691_geometric-k-1-0.jpg,COCO_train2014_000000002691_geometric-k-1-0_GRAD-CAM_sup.jpg,geometric-k-1-0,GRAD-CAM,person,person_cup_chair_tv_laptop_book
+440,COCO_train2014_000000002664_blur-k-6-0.jpg,COCO_train2014_000000002664_blur-k-6-0_ML-FEM_sup.jpg,blur-k-6-0,ML-FEM,bicycle,"person_bicycle_chair_dining table"
+74,COCO_train2014_000000000419_blur-k-1.25-0.jpg,COCO_train2014_000000000419_blur-k-1.25-0_ML-FEM_sup.jpg,blur-k-1.25-0,ML-FEM,person,"person_car_sports ball_tennis racket"
+14,COCO_train2014_000000000089_noise-k-100-0.jpg,COCO_train2014_000000000089_noise-k-100-0_ML-FEM_sup.jpg,noise-k-100-0,ML-FEM,bench,knife_microwave_oven_book
+297,COCO_train2014_000000001822_geometric-k-1-0.jpg,COCO_train2014_000000001822_geometric-k-1-0_GRAD-CAM_sup.jpg,geometric-k-1-0,GRAD-CAM,chair,"person_bottle_cup_chair_couch_dining table_tv"
+42,COCO_train2014_000000000332_geometric-k-10-0.jpg,COCO_train2014_000000000332_geometric-k-10-0_GRAD-CAM_sup.jpg,geometric-k-10-0,GRAD-CAM,umbrella,cup_fork_bowl_carrot
+139,COCO_train2014_000000000731_blur-k-2-0.jpg,COCO_train2014_000000000731_blur-k-2-0_FEM_sup.jpg,blur-k-2-0,FEM,umbrella,person_car_umbrella
+356,COCO_train2014_000000002217_noise-k-100-0.jpg,COCO_train2014_000000002217_noise-k-100-0_ML-FEM_sup.jpg,noise-k-100-0,ML-FEM,suitcase,bottle_bowl_sink
+143,COCO_train2014_000000000731_geometric-k-10-0.jpg,COCO_train2014_000000000731_geometric-k-10-0_ML-FEM_sup.jpg,geometric-k-10-0,ML-FEM,person,person_car_umbrella
+295,COCO_train2014_000000001804_brightness-k-175-0.jpg,COCO_train2014_000000001804_brightness-k-175-0_FEM_sup.jpg,brightness-k-175-0,FEM,person,person_donut_refrigerator
+135,COCO_train2014_000000000731_brightness-k-25-0.jpg,COCO_train2014_000000000731_brightness-k-25-0_GRAD-CAM_sup.jpg,brightness-k-25-0,GRAD-CAM,person,person_car_umbrella
+349,COCO_train2014_000000002007_noise-k-175-0.jpg,COCO_train2014_000000002007_noise-k-175-0_FEM_sup.jpg,noise-k-175-0,FEM,person,"person_sports ball_tennis racket_chair"
+433,COCO_train2014_000000002664_brightness-k-25-0.jpg,COCO_train2014_000000002664_brightness-k-25-0_FEM_sup.jpg,brightness-k-25-0,FEM,bicycle,"person_bicycle_chair_dining table"
+370,COCO_train2014_000000002270_blur-k-1.25-0.jpg,COCO_train2014_000000002270_blur-k-1.25-0_FEM_sup.jpg,blur-k-1.25-0,FEM,couch,"cup_bowl_chair_couch_potted plant_book_vase"
+35,COCO_train2014_000000000307_noise-k-175-0.jpg,COCO_train2014_000000000307_noise-k-175-0_ML-FEM_sup.jpg,noise-k-175-0,ML-FEM,person,car_dog_frisbee
+61,COCO_train2014_000000000382_brightness-k-175-0.jpg,COCO_train2014_000000000382_brightness-k-175-0_FEM_sup.jpg,brightness-k-175-0,FEM,bird,person_backpack_skis
+389,COCO_train2014_000000002284_geometric-k-1-0.jpg,COCO_train2014_000000002284_geometric-k-1-0_ML-FEM_sup.jpg,geometric-k-1-0,ML-FEM,sink,bottle_cup_toilet_sink_toothbrush
+354,COCO_train2014_000000002217_noise-k-100-0.jpg,COCO_train2014_000000002217_noise-k-100-0_GRAD-CAM_sup.jpg,noise-k-100-0,GRAD-CAM,suitcase,bottle_bowl_sink
+401,COCO_train2014_000000002347_blur-k-2-0.jpg,COCO_train2014_000000002347_blur-k-2-0_ML-FEM_sup.jpg,blur-k-2-0,ML-FEM,tv,cup_bowl_chair_couch_tv_remote_book_vase
+230,COCO_train2014_000000001510_brightness-k-100-0.jpg,COCO_train2014_000000001510_brightness-k-100-0_ML-FEM_sup.jpg,brightness-k-100-0,ML-FEM,broccoli,"broccoli_dining table"
+348,COCO_train2014_000000002007_blur-k-6-0.jpg,COCO_train2014_000000002007_blur-k-6-0_GRAD-CAM_sup.jpg,blur-k-6-0,GRAD-CAM,bottle,"person_sports ball_tennis racket_chair"
+273,COCO_train2014_000000001756_brightness-k-100-0.jpg,COCO_train2014_000000001756_brightness-k-100-0_GRAD-CAM_sup.jpg,brightness-k-100-0,GRAD-CAM,bench,person_handbag_bottle_cup_chair_laptop
+364,COCO_train2014_000000002258_geometric-k-5-0.jpg,COCO_train2014_000000002258_geometric-k-5-0_FEM_sup.jpg,geometric-k-5-0,FEM,airplane,person_airplane_truck
+100,COCO_train2014_000000000510_brightness-k-25-0.jpg,COCO_train2014_000000000510_brightness-k-25-0_FEM_sup.jpg,brightness-k-25-0,FEM,bench,"person_traffic light_bench"
+196,COCO_train2014_000000001145_blur-k-6-0.jpg,COCO_train2014_000000001145_blur-k-6-0_FEM_sup.jpg,blur-k-6-0,FEM,person,"person_bottle_cup_knife_spoon_bowl_chair_couch_potted plant_dining table_oven_refrigerator_book"
+404,COCO_train2014_000000002347_brightness-k-175-0.jpg,COCO_train2014_000000002347_brightness-k-175-0_ML-FEM_sup.jpg,brightness-k-175-0,ML-FEM,clock,cup_bowl_chair_couch_tv_remote_book_vase
+283,COCO_train2014_000000001785_noise-k-100-0.jpg,COCO_train2014_000000001785_noise-k-100-0_FEM_sup.jpg,noise-k-100-0,FEM,kite,"person_backpack_sports ball_kite"
+272,COCO_train2014_000000001756_geometric-k-1-0.jpg,COCO_train2014_000000001756_geometric-k-1-0_ML-FEM_sup.jpg,geometric-k-1-0,ML-FEM,person,person_handbag_bottle_cup_chair_laptop
+171,COCO_train2014_000000001014_brightness-k-25-0.jpg,COCO_train2014_000000001014_brightness-k-25-0_GRAD-CAM_sup.jpg,brightness-k-25-0,GRAD-CAM,person,"person_backpack_sports ball_tennis racket"
+388,COCO_train2014_000000002284_brightness-k-25-0.jpg,COCO_train2014_000000002284_brightness-k-25-0_FEM_sup.jpg,brightness-k-25-0,FEM,toilet,bottle_cup_toilet_sink_toothbrush
+137,COCO_train2014_000000000731_brightness-k-25-0.jpg,COCO_train2014_000000000731_brightness-k-25-0_ML-FEM_sup.jpg,brightness-k-25-0,ML-FEM,person,person_car_umbrella
+131,COCO_train2014_000000000605_brightness-k-100-0.jpg,COCO_train2014_000000000605_brightness-k-100-0_ML-FEM_sup.jpg,brightness-k-100-0,ML-FEM,cat,"cup_spoon_dining table"
+132,COCO_train2014_000000000605_geometric-k-10-0.jpg,COCO_train2014_000000000605_geometric-k-10-0_GRAD-CAM_sup.jpg,geometric-k-10-0,GRAD-CAM,cup,"cup_spoon_dining table"
+214,COCO_train2014_000000001403_geometric-k-10-0.jpg,COCO_train2014_000000001403_geometric-k-10-0_FEM_sup.jpg,geometric-k-10-0,FEM,person,person_boat_bottle
+64,COCO_train2014_000000000389_noise-k-25-0.jpg,COCO_train2014_000000000389_noise-k-25-0_FEM_sup.jpg,noise-k-25-0,FEM,person,person_backpack_tie
+204,COCO_train2014_000000001261_blur-k-6-0.jpg,COCO_train2014_000000001261_blur-k-6-0_GRAD-CAM_sup.jpg,blur-k-6-0,GRAD-CAM,bottle,"bowl_cake_dining table"
+41,COCO_train2014_000000000332_brightness-k-100-0.jpg,COCO_train2014_000000000332_brightness-k-100-0_ML-FEM_sup.jpg,brightness-k-100-0,ML-FEM,cake,cup_fork_bowl_carrot
+186,COCO_train2014_000000001144_blur-k-6-0.jpg,COCO_train2014_000000001144_blur-k-6-0_GRAD-CAM_sup.jpg,blur-k-6-0,GRAD-CAM,"wine glass","person_car_backpack_handbag_wine glass_sandwich_chair_dining table"
+325,COCO_train2014_000000001966_brightness-k-25-0.jpg,COCO_train2014_000000001966_brightness-k-25-0_FEM_sup.jpg,brightness-k-25-0,FEM,person,"person_sports ball_tennis racket"
+1,COCO_train2014_000000000009_blur-k-1.25-0.jpg,COCO_train2014_000000000009_blur-k-1.25-0_FEM_sup.jpg,blur-k-1.25-0,FEM,bowl,bowl_orange_broccoli
+227,COCO_train2014_000000001510_blur-k-1.25-0.jpg,COCO_train2014_000000001510_blur-k-1.25-0_ML-FEM_sup.jpg,blur-k-1.25-0,ML-FEM,broccoli,"broccoli_dining table"
+18,COCO_train2014_000000000110_brightness-k-25-0.jpg,COCO_train2014_000000000110_brightness-k-25-0_GRAD-CAM_sup.jpg,brightness-k-25-0,GRAD-CAM,person,"person_cup_fork_knife_pizza_chair_dining table"
+104,COCO_train2014_000000000510_geometric-k-5-0.jpg,COCO_train2014_000000000510_geometric-k-5-0_ML-FEM_sup.jpg,geometric-k-5-0,ML-FEM,person,"person_traffic light_bench"
+80,COCO_train2014_000000000419_blur-k-6-0.jpg,COCO_train2014_000000000419_blur-k-6-0_ML-FEM_sup.jpg,blur-k-6-0,ML-FEM,person,"person_car_sports ball_tennis racket"
+42,COCO_train2014_000000000332_brightness-k-175-0.jpg,COCO_train2014_000000000332_brightness-k-175-0_GRAD-CAM_sup.jpg,brightness-k-175-0,GRAD-CAM,"wine glass",cup_fork_bowl_carrot
+439,COCO_train2014_000000002664_brightness-k-175-0.jpg,COCO_train2014_000000002664_brightness-k-175-0_FEM_sup.jpg,brightness-k-175-0,FEM,bird,"person_bicycle_chair_dining table"
+280,COCO_train2014_000000001785_noise-k-25-0.jpg,COCO_train2014_000000001785_noise-k-25-0_FEM_sup.jpg,noise-k-25-0,FEM,kite,"person_backpack_sports ball_kite"
+438,COCO_train2014_000000002664_brightness-k-175-0.jpg,COCO_train2014_000000002664_brightness-k-175-0_GRAD-CAM_sup.jpg,brightness-k-175-0,GRAD-CAM,bird,"person_bicycle_chair_dining table"
+357,COCO_train2014_000000002217_geometric-k-10-0.jpg,COCO_train2014_000000002217_geometric-k-10-0_GRAD-CAM_sup.jpg,geometric-k-10-0,GRAD-CAM,sink,bottle_bowl_sink
+43,COCO_train2014_000000000332_blur-k-6-0.jpg,COCO_train2014_000000000332_blur-k-6-0_FEM_sup.jpg,blur-k-6-0,FEM,bowl,cup_fork_bowl_carrot
+391,COCO_train2014_000000002284_brightness-k-100-0.jpg,COCO_train2014_000000002284_brightness-k-100-0_FEM_sup.jpg,brightness-k-100-0,FEM,bench,bottle_cup_toilet_sink_toothbrush
+228,COCO_train2014_000000001510_brightness-k-100-0.jpg,COCO_train2014_000000001510_brightness-k-100-0_GRAD-CAM_sup.jpg,brightness-k-100-0,GRAD-CAM,broccoli,"broccoli_dining table"
+441,COCO_train2014_000000002691_noise-k-25-0.jpg,COCO_train2014_000000002691_noise-k-25-0_GRAD-CAM_sup.jpg,noise-k-25-0,GRAD-CAM,tv,person_cup_chair_tv_laptop_book
+203,COCO_train2014_000000001261_brightness-k-100-0.jpg,COCO_train2014_000000001261_brightness-k-100-0_ML-FEM_sup.jpg,brightness-k-100-0,ML-FEM,suitcase,"bowl_cake_dining table"
+101,COCO_train2014_000000000510_noise-k-25-0.jpg,COCO_train2014_000000000510_noise-k-25-0_ML-FEM_sup.jpg,noise-k-25-0,ML-FEM,bench,"person_traffic light_bench"
+107,COCO_train2014_000000000510_brightness-k-175-0.jpg,COCO_train2014_000000000510_brightness-k-175-0_ML-FEM_sup.jpg,brightness-k-175-0,ML-FEM,giraffe,"person_traffic light_bench"
+149,COCO_train2014_000000000853_brightness-k-100-0.jpg,COCO_train2014_000000000853_brightness-k-100-0_ML-FEM_sup.jpg,brightness-k-100-0,ML-FEM,suitcase,"fork_bowl_sandwich_dining table"
+350,COCO_train2014_000000002007_noise-k-175-0.jpg,COCO_train2014_000000002007_noise-k-175-0_ML-FEM_sup.jpg,noise-k-175-0,ML-FEM,person,"person_sports ball_tennis racket_chair"
+393,COCO_train2014_000000002284_blur-k-6-0.jpg,COCO_train2014_000000002284_blur-k-6-0_GRAD-CAM_sup.jpg,blur-k-6-0,GRAD-CAM,sink,bottle_cup_toilet_sink_toothbrush
+176,COCO_train2014_000000001014_geometric-k-5-0.jpg,COCO_train2014_000000001014_geometric-k-5-0_ML-FEM_sup.jpg,geometric-k-5-0,ML-FEM,person,"person_backpack_sports ball_tennis racket"
+416,COCO_train2014_000000002448_blur-k-1.25-0.jpg,COCO_train2014_000000002448_blur-k-1.25-0_ML-FEM_sup.jpg,blur-k-1.25-0,ML-FEM,chair,"chair_potted plant_microwave_oven_refrigerator_clock_vase"
+282,COCO_train2014_000000001785_geometric-k-5-0.jpg,COCO_train2014_000000001785_geometric-k-5-0_GRAD-CAM_sup.jpg,geometric-k-5-0,GRAD-CAM,person,"person_backpack_sports ball_kite"
+1,COCO_train2014_000000000009_noise-k-25-0.jpg,COCO_train2014_000000000009_noise-k-25-0_FEM_sup.jpg,noise-k-25-0,FEM,bowl,bowl_orange_broccoli
+200,COCO_train2014_000000001261_noise-k-25-0.jpg,COCO_train2014_000000001261_noise-k-25-0_ML-FEM_sup.jpg,noise-k-25-0,ML-FEM,suitcase,"bowl_cake_dining table"
+264,COCO_train2014_000000001670_noise-k-100-0.jpg,COCO_train2014_000000001670_noise-k-100-0_GRAD-CAM_sup.jpg,noise-k-100-0,GRAD-CAM,person,person_backpack_skis
+436,COCO_train2014_000000002664_brightness-k-100-0.jpg,COCO_train2014_000000002664_brightness-k-100-0_FEM_sup.jpg,brightness-k-100-0,FEM,kite,"person_bicycle_chair_dining table"
+329,COCO_train2014_000000001966_brightness-k-100-0.jpg,COCO_train2014_000000001966_brightness-k-100-0_ML-FEM_sup.jpg,brightness-k-100-0,ML-FEM,person,"person_sports ball_tennis racket"
+261,COCO_train2014_000000001670_blur-k-1.25-0.jpg,COCO_train2014_000000001670_blur-k-1.25-0_GRAD-CAM_sup.jpg,blur-k-1.25-0,GRAD-CAM,person,person_backpack_skis
+101,COCO_train2014_000000000510_blur-k-1.25-0.jpg,COCO_train2014_000000000510_blur-k-1.25-0_ML-FEM_sup.jpg,blur-k-1.25-0,ML-FEM,bench,"person_traffic light_bench"
+189,COCO_train2014_000000001145_blur-k-1.25-0.jpg,COCO_train2014_000000001145_blur-k-1.25-0_GRAD-CAM_sup.jpg,blur-k-1.25-0,GRAD-CAM,person,"person_bottle_cup_knife_spoon_bowl_chair_couch_potted plant_dining table_oven_refrigerator_book"
+4,COCO_train2014_000000000009_geometric-k-5-0.jpg,COCO_train2014_000000000009_geometric-k-5-0_FEM_sup.jpg,geometric-k-5-0,FEM,broccoli,bowl_orange_broccoli
+427,COCO_train2014_000000002608_geometric-k-5-0.jpg,COCO_train2014_000000002608_geometric-k-5-0_FEM_sup.jpg,geometric-k-5-0,FEM,bed,"backpack_chair_couch_potted plant_laptop_mouse_keyboard_book"
+122,COCO_train2014_000000000532_blur-k-2-0.jpg,COCO_train2014_000000000532_blur-k-2-0_ML-FEM_sup.jpg,blur-k-2-0,ML-FEM,bus,person_bus_handbag
+273,COCO_train2014_000000001756_blur-k-2-0.jpg,COCO_train2014_000000001756_blur-k-2-0_GRAD-CAM_sup.jpg,blur-k-2-0,GRAD-CAM,person,person_handbag_bottle_cup_chair_laptop
+157,COCO_train2014_000000000965_noise-k-100-0.jpg,COCO_train2014_000000000965_noise-k-100-0_FEM_sup.jpg,noise-k-100-0,FEM,kite,person_skis_snowboard
+119,COCO_train2014_000000000532_blur-k-1.25-0.jpg,COCO_train2014_000000000532_blur-k-1.25-0_ML-FEM_sup.jpg,blur-k-1.25-0,ML-FEM,bus,person_bus_handbag
+99,COCO_train2014_000000000510_geometric-k-1-0.jpg,COCO_train2014_000000000510_geometric-k-1-0_GRAD-CAM_sup.jpg,geometric-k-1-0,GRAD-CAM,person,"person_traffic light_bench"
+77,COCO_train2014_000000000419_blur-k-2-0.jpg,COCO_train2014_000000000419_blur-k-2-0_ML-FEM_sup.jpg,blur-k-2-0,ML-FEM,person,"person_car_sports ball_tennis racket"
+226,COCO_train2014_000000001510_brightness-k-25-0.jpg,COCO_train2014_000000001510_brightness-k-25-0_FEM_sup.jpg,brightness-k-25-0,FEM,broccoli,"broccoli_dining table"
+330,COCO_train2014_000000001966_blur-k-6-0.jpg,COCO_train2014_000000001966_blur-k-6-0_GRAD-CAM_sup.jpg,blur-k-6-0,GRAD-CAM,person,"person_sports ball_tennis racket"
+130,COCO_train2014_000000000605_noise-k-100-0.jpg,COCO_train2014_000000000605_noise-k-100-0_FEM_sup.jpg,noise-k-100-0,FEM,"dining table","cup_spoon_dining table"
+34,COCO_train2014_000000000307_geometric-k-10-0.jpg,COCO_train2014_000000000307_geometric-k-10-0_FEM_sup.jpg,geometric-k-10-0,FEM,frisbee,car_dog_frisbee
+78,COCO_train2014_000000000419_noise-k-175-0.jpg,COCO_train2014_000000000419_noise-k-175-0_GRAD-CAM_sup.jpg,noise-k-175-0,GRAD-CAM,bird,"person_car_sports ball_tennis racket"
+71,COCO_train2014_000000000389_brightness-k-175-0.jpg,COCO_train2014_000000000389_brightness-k-175-0_ML-FEM_sup.jpg,brightness-k-175-0,ML-FEM,person,person_backpack_tie
+223,COCO_train2014_000000001424_brightness-k-175-0.jpg,COCO_train2014_000000001424_brightness-k-175-0_FEM_sup.jpg,brightness-k-175-0,FEM,sink,"person_knife_cake_chair_potted plant_dining table_vase"
+342,COCO_train2014_000000002007_brightness-k-25-0.jpg,COCO_train2014_000000002007_brightness-k-25-0_GRAD-CAM_sup.jpg,brightness-k-25-0,GRAD-CAM,person,"person_sports ball_tennis racket_chair"
+183,COCO_train2014_000000001144_geometric-k-5-0.jpg,COCO_train2014_000000001144_geometric-k-5-0_GRAD-CAM_sup.jpg,geometric-k-5-0,GRAD-CAM,person,"person_car_backpack_handbag_wine glass_sandwich_chair_dining table"
+26,COCO_train2014_000000000110_blur-k-6-0.jpg,COCO_train2014_000000000110_blur-k-6-0_ML-FEM_sup.jpg,blur-k-6-0,ML-FEM,person,"person_cup_fork_knife_pizza_chair_dining table"
+79,COCO_train2014_000000000419_blur-k-6-0.jpg,COCO_train2014_000000000419_blur-k-6-0_FEM_sup.jpg,blur-k-6-0,FEM,person,"person_car_sports ball_tennis racket"
+19,COCO_train2014_000000000110_blur-k-1.25-0.jpg,COCO_train2014_000000000110_blur-k-1.25-0_FEM_sup.jpg,blur-k-1.25-0,FEM,person,"person_cup_fork_knife_pizza_chair_dining table"
+415,COCO_train2014_000000002448_brightness-k-25-0.jpg,COCO_train2014_000000002448_brightness-k-25-0_FEM_sup.jpg,brightness-k-25-0,FEM,"potted plant","chair_potted plant_microwave_oven_refrigerator_clock_vase"
+91,COCO_train2014_000000000450_blur-k-1.25-0.jpg,COCO_train2014_000000000450_blur-k-1.25-0_FEM_sup.jpg,blur-k-1.25-0,FEM,broccoli,"wine glass_cup_pizza_dining table"
+124,COCO_train2014_000000000532_noise-k-175-0.jpg,COCO_train2014_000000000532_noise-k-175-0_FEM_sup.jpg,noise-k-175-0,FEM,bench,person_bus_handbag
+436,COCO_train2014_000000002664_blur-k-2-0.jpg,COCO_train2014_000000002664_blur-k-2-0_FEM_sup.jpg,blur-k-2-0,FEM,bicycle,"person_bicycle_chair_dining table"
+253,COCO_train2014_000000001558_noise-k-25-0.jpg,COCO_train2014_000000001558_noise-k-25-0_FEM_sup.jpg,noise-k-25-0,FEM,cup,cup_bowl_sandwich
+215,COCO_train2014_000000001403_noise-k-175-0.jpg,COCO_train2014_000000001403_noise-k-175-0_ML-FEM_sup.jpg,noise-k-175-0,ML-FEM,person,person_boat_bottle
+407,COCO_train2014_000000002429_geometric-k-1-0.jpg,COCO_train2014_000000002429_geometric-k-1-0_ML-FEM_sup.jpg,geometric-k-1-0,ML-FEM,sink,"cup_knife_bowl_banana_apple_chair_dining table_oven_sink_refrigerator"
+379,COCO_train2014_000000002281_blur-k-1.25-0.jpg,COCO_train2014_000000002281_blur-k-1.25-0_FEM_sup.jpg,blur-k-1.25-0,FEM,car,person_car_refrigerator
+355,COCO_train2014_000000002217_brightness-k-100-0.jpg,COCO_train2014_000000002217_brightness-k-100-0_FEM_sup.jpg,brightness-k-100-0,FEM,airplane,bottle_bowl_sink
+385,COCO_train2014_000000002281_geometric-k-10-0.jpg,COCO_train2014_000000002281_geometric-k-10-0_FEM_sup.jpg,geometric-k-10-0,FEM,refrigerator,person_car_refrigerator
+247,COCO_train2014_000000001523_geometric-k-5-0.jpg,COCO_train2014_000000001523_geometric-k-5-0_FEM_sup.jpg,geometric-k-5-0,FEM,truck,"person_car_bus_truck_traffic light"
+304,COCO_train2014_000000001822_noise-k-175-0.jpg,COCO_train2014_000000001822_noise-k-175-0_FEM_sup.jpg,noise-k-175-0,FEM,clock,"person_bottle_cup_chair_couch_dining table_tv"
+281,COCO_train2014_000000001785_geometric-k-1-0.jpg,COCO_train2014_000000001785_geometric-k-1-0_ML-FEM_sup.jpg,geometric-k-1-0,ML-FEM,person,"person_backpack_sports ball_kite"
+278,COCO_train2014_000000001756_brightness-k-175-0.jpg,COCO_train2014_000000001756_brightness-k-175-0_ML-FEM_sup.jpg,brightness-k-175-0,ML-FEM,giraffe,person_handbag_bottle_cup_chair_laptop
+352,COCO_train2014_000000002217_geometric-k-1-0.jpg,COCO_train2014_000000002217_geometric-k-1-0_FEM_sup.jpg,geometric-k-1-0,FEM,sink,bottle_bowl_sink
+217,COCO_train2014_000000001424_noise-k-25-0.jpg,COCO_train2014_000000001424_noise-k-25-0_FEM_sup.jpg,noise-k-25-0,FEM,"teddy bear","person_knife_cake_chair_potted plant_dining table_vase"
+364,COCO_train2014_000000002258_blur-k-2-0.jpg,COCO_train2014_000000002258_blur-k-2-0_FEM_sup.jpg,blur-k-2-0,FEM,dog,person_airplane_truck
+430,COCO_train2014_000000002608_blur-k-6-0.jpg,COCO_train2014_000000002608_blur-k-6-0_FEM_sup.jpg,blur-k-6-0,FEM,keyboard,"backpack_chair_couch_potted plant_laptop_mouse_keyboard_book"
+363,COCO_train2014_000000002258_brightness-k-100-0.jpg,COCO_train2014_000000002258_brightness-k-100-0_GRAD-CAM_sup.jpg,brightness-k-100-0,GRAD-CAM,bench,person_airplane_truck
+347,COCO_train2014_000000002007_brightness-k-100-0.jpg,COCO_train2014_000000002007_brightness-k-100-0_ML-FEM_sup.jpg,brightness-k-100-0,ML-FEM,person,"person_sports ball_tennis racket_chair"
+255,COCO_train2014_000000001558_geometric-k-5-0.jpg,COCO_train2014_000000001558_geometric-k-5-0_GRAD-CAM_sup.jpg,geometric-k-5-0,GRAD-CAM,cup,cup_bowl_sandwich
+311,COCO_train2014_000000001926_noise-k-100-0.jpg,COCO_train2014_000000001926_noise-k-100-0_ML-FEM_sup.jpg,noise-k-100-0,ML-FEM,cat,cat_bottle_sink_toothbrush
+340,COCO_train2014_000000001994_brightness-k-175-0.jpg,COCO_train2014_000000001994_brightness-k-175-0_FEM_sup.jpg,brightness-k-175-0,FEM,bird,"person_bottle_wine glass"
+98,COCO_train2014_000000000450_brightness-k-175-0.jpg,COCO_train2014_000000000450_brightness-k-175-0_ML-FEM_sup.jpg,brightness-k-175-0,ML-FEM,vase,"wine glass_cup_pizza_dining table"
+294,COCO_train2014_000000001804_noise-k-175-0.jpg,COCO_train2014_000000001804_noise-k-175-0_GRAD-CAM_sup.jpg,noise-k-175-0,GRAD-CAM,vase,person_donut_refrigerator
+403,COCO_train2014_000000002347_blur-k-6-0.jpg,COCO_train2014_000000002347_blur-k-6-0_FEM_sup.jpg,blur-k-6-0,FEM,couch,cup_bowl_chair_couch_tv_remote_book_vase
+96,COCO_train2014_000000000450_blur-k-6-0.jpg,COCO_train2014_000000000450_blur-k-6-0_GRAD-CAM_sup.jpg,blur-k-6-0,GRAD-CAM,broccoli,"wine glass_cup_pizza_dining table"
+94,COCO_train2014_000000000450_brightness-k-100-0.jpg,COCO_train2014_000000000450_brightness-k-100-0_FEM_sup.jpg,brightness-k-100-0,FEM,broccoli,"wine glass_cup_pizza_dining table"
+22,COCO_train2014_000000000110_geometric-k-5-0.jpg,COCO_train2014_000000000110_geometric-k-5-0_FEM_sup.jpg,geometric-k-5-0,FEM,person,"person_cup_fork_knife_pizza_chair_dining table"
+339,COCO_train2014_000000001994_noise-k-175-0.jpg,COCO_train2014_000000001994_noise-k-175-0_GRAD-CAM_sup.jpg,noise-k-175-0,GRAD-CAM,bird,"person_bottle_wine glass"
+112,COCO_train2014_000000000531_geometric-k-5-0.jpg,COCO_train2014_000000000531_geometric-k-5-0_FEM_sup.jpg,geometric-k-5-0,FEM,person,"person_bicycle_sports ball_tennis racket"
+54,COCO_train2014_000000000382_geometric-k-1-0.jpg,COCO_train2014_000000000382_geometric-k-1-0_GRAD-CAM_sup.jpg,geometric-k-1-0,GRAD-CAM,person,person_backpack_skis
+249,COCO_train2014_000000001523_blur-k-6-0.jpg,COCO_train2014_000000001523_blur-k-6-0_GRAD-CAM_sup.jpg,blur-k-6-0,GRAD-CAM,truck,"person_car_bus_truck_traffic light"
+380,COCO_train2014_000000002281_noise-k-25-0.jpg,COCO_train2014_000000002281_noise-k-25-0_ML-FEM_sup.jpg,noise-k-25-0,ML-FEM,refrigerator,person_car_refrigerator
+308,COCO_train2014_000000001926_brightness-k-25-0.jpg,COCO_train2014_000000001926_brightness-k-25-0_ML-FEM_sup.jpg,brightness-k-25-0,ML-FEM,sink,cat_bottle_sink_toothbrush
+107,COCO_train2014_000000000510_blur-k-6-0.jpg,COCO_train2014_000000000510_blur-k-6-0_ML-FEM_sup.jpg,blur-k-6-0,ML-FEM,person,"person_traffic light_bench"
+248,COCO_train2014_000000001523_noise-k-100-0.jpg,COCO_train2014_000000001523_noise-k-100-0_ML-FEM_sup.jpg,noise-k-100-0,ML-FEM,bench,"person_car_bus_truck_traffic light"
+288,COCO_train2014_000000001804_geometric-k-1-0.jpg,COCO_train2014_000000001804_geometric-k-1-0_GRAD-CAM_sup.jpg,geometric-k-1-0,GRAD-CAM,person,person_donut_refrigerator
+29,COCO_train2014_000000000307_noise-k-25-0.jpg,COCO_train2014_000000000307_noise-k-25-0_ML-FEM_sup.jpg,noise-k-25-0,ML-FEM,dog,car_dog_frisbee
+365,COCO_train2014_000000002258_geometric-k-5-0.jpg,COCO_train2014_000000002258_geometric-k-5-0_ML-FEM_sup.jpg,geometric-k-5-0,ML-FEM,airplane,person_airplane_truck
+140,COCO_train2014_000000000731_geometric-k-5-0.jpg,COCO_train2014_000000000731_geometric-k-5-0_ML-FEM_sup.jpg,geometric-k-5-0,ML-FEM,person,person_car_umbrella
+23,COCO_train2014_000000000110_noise-k-100-0.jpg,COCO_train2014_000000000110_noise-k-100-0_ML-FEM_sup.jpg,noise-k-100-0,ML-FEM,book,"person_cup_fork_knife_pizza_chair_dining table"
+388,COCO_train2014_000000002284_noise-k-25-0.jpg,COCO_train2014_000000002284_noise-k-25-0_FEM_sup.jpg,noise-k-25-0,FEM,toilet,bottle_cup_toilet_sink_toothbrush
+310,COCO_train2014_000000001926_noise-k-100-0.jpg,COCO_train2014_000000001926_noise-k-100-0_FEM_sup.jpg,noise-k-100-0,FEM,cat,cat_bottle_sink_toothbrush
+243,COCO_train2014_000000001523_geometric-k-1-0.jpg,COCO_train2014_000000001523_geometric-k-1-0_GRAD-CAM_sup.jpg,geometric-k-1-0,GRAD-CAM,truck,"person_car_bus_truck_traffic light"
+121,COCO_train2014_000000000532_blur-k-2-0.jpg,COCO_train2014_000000000532_blur-k-2-0_FEM_sup.jpg,blur-k-2-0,FEM,bus,person_bus_handbag
+145,COCO_train2014_000000000853_blur-k-1.25-0.jpg,COCO_train2014_000000000853_blur-k-1.25-0_FEM_sup.jpg,blur-k-1.25-0,FEM,bowl,"fork_bowl_sandwich_dining table"
+190,COCO_train2014_000000001145_noise-k-25-0.jpg,COCO_train2014_000000001145_noise-k-25-0_FEM_sup.jpg,noise-k-25-0,FEM,person,"person_bottle_cup_knife_spoon_bowl_chair_couch_potted plant_dining table_oven_refrigerator_book"
+105,COCO_train2014_000000000510_brightness-k-175-0.jpg,COCO_train2014_000000000510_brightness-k-175-0_GRAD-CAM_sup.jpg,brightness-k-175-0,GRAD-CAM,giraffe,"person_traffic light_bench"
+253,COCO_train2014_000000001558_blur-k-1.25-0.jpg,COCO_train2014_000000001558_blur-k-1.25-0_FEM_sup.jpg,blur-k-1.25-0,FEM,sink,cup_bowl_sandwich
+396,COCO_train2014_000000002347_brightness-k-25-0.jpg,COCO_train2014_000000002347_brightness-k-25-0_GRAD-CAM_sup.jpg,brightness-k-25-0,GRAD-CAM,chair,cup_bowl_chair_couch_tv_remote_book_vase
+121,COCO_train2014_000000000532_geometric-k-5-0.jpg,COCO_train2014_000000000532_geometric-k-5-0_FEM_sup.jpg,geometric-k-5-0,FEM,bus,person_bus_handbag
+107,COCO_train2014_000000000510_noise-k-175-0.jpg,COCO_train2014_000000000510_noise-k-175-0_ML-FEM_sup.jpg,noise-k-175-0,ML-FEM,giraffe,"person_traffic light_bench"
+220,COCO_train2014_000000001424_noise-k-100-0.jpg,COCO_train2014_000000001424_noise-k-100-0_FEM_sup.jpg,noise-k-100-0,FEM,cat,"person_knife_cake_chair_potted plant_dining table_vase"
+262,COCO_train2014_000000001670_geometric-k-1-0.jpg,COCO_train2014_000000001670_geometric-k-1-0_FEM_sup.jpg,geometric-k-1-0,FEM,person,person_backpack_skis
+385,COCO_train2014_000000002281_brightness-k-175-0.jpg,COCO_train2014_000000002281_brightness-k-175-0_FEM_sup.jpg,brightness-k-175-0,FEM,bird,person_car_refrigerator
+218,COCO_train2014_000000001424_geometric-k-1-0.jpg,COCO_train2014_000000001424_geometric-k-1-0_ML-FEM_sup.jpg,geometric-k-1-0,ML-FEM,person,"person_knife_cake_chair_potted plant_dining table_vase"
+220,COCO_train2014_000000001424_geometric-k-5-0.jpg,COCO_train2014_000000001424_geometric-k-5-0_FEM_sup.jpg,geometric-k-5-0,FEM,person,"person_knife_cake_chair_potted plant_dining table_vase"
+209,COCO_train2014_000000001403_noise-k-25-0.jpg,COCO_train2014_000000001403_noise-k-25-0_ML-FEM_sup.jpg,noise-k-25-0,ML-FEM,person,person_boat_bottle
+95,COCO_train2014_000000000450_geometric-k-5-0.jpg,COCO_train2014_000000000450_geometric-k-5-0_ML-FEM_sup.jpg,geometric-k-5-0,ML-FEM,broccoli,"wine glass_cup_pizza_dining table"
+44,COCO_train2014_000000000332_blur-k-6-0.jpg,COCO_train2014_000000000332_blur-k-6-0_ML-FEM_sup.jpg,blur-k-6-0,ML-FEM,bowl,cup_fork_bowl_carrot
+21,COCO_train2014_000000000110_geometric-k-5-0.jpg,COCO_train2014_000000000110_geometric-k-5-0_GRAD-CAM_sup.jpg,geometric-k-5-0,GRAD-CAM,person,"person_cup_fork_knife_pizza_chair_dining table"
+3,COCO_train2014_000000000009_blur-k-2-0.jpg,COCO_train2014_000000000009_blur-k-2-0_GRAD-CAM_sup.jpg,blur-k-2-0,GRAD-CAM,broccoli,bowl_orange_broccoli
+331,COCO_train2014_000000001966_blur-k-6-0.jpg,COCO_train2014_000000001966_blur-k-6-0_FEM_sup.jpg,blur-k-6-0,FEM,person,"person_sports ball_tennis racket"
+424,COCO_train2014_000000002608_geometric-k-1-0.jpg,COCO_train2014_000000002608_geometric-k-1-0_FEM_sup.jpg,geometric-k-1-0,FEM,bed,"backpack_chair_couch_potted plant_laptop_mouse_keyboard_book"
+321,COCO_train2014_000000001958_brightness-k-175-0.jpg,COCO_train2014_000000001958_brightness-k-175-0_GRAD-CAM_sup.jpg,brightness-k-175-0,GRAD-CAM,clock,person_chair_couch_tv_remote
+163,COCO_train2014_000000001011_blur-k-1.25-0.jpg,COCO_train2014_000000001011_blur-k-1.25-0_FEM_sup.jpg,blur-k-1.25-0,FEM,bird,person_backpack_handbag_suitcase
+212,COCO_train2014_000000001403_geometric-k-5-0.jpg,COCO_train2014_000000001403_geometric-k-5-0_ML-FEM_sup.jpg,geometric-k-5-0,ML-FEM,person,person_boat_bottle
+275,COCO_train2014_000000001756_geometric-k-5-0.jpg,COCO_train2014_000000001756_geometric-k-5-0_ML-FEM_sup.jpg,geometric-k-5-0,ML-FEM,person,person_handbag_bottle_cup_chair_laptop
+285,COCO_train2014_000000001785_brightness-k-175-0.jpg,COCO_train2014_000000001785_brightness-k-175-0_GRAD-CAM_sup.jpg,brightness-k-175-0,GRAD-CAM,kite,"person_backpack_sports ball_kite"
+343,COCO_train2014_000000002007_brightness-k-25-0.jpg,COCO_train2014_000000002007_brightness-k-25-0_FEM_sup.jpg,brightness-k-25-0,FEM,person,"person_sports ball_tennis racket_chair"
+420,COCO_train2014_000000002448_noise-k-175-0.jpg,COCO_train2014_000000002448_noise-k-175-0_GRAD-CAM_sup.jpg,noise-k-175-0,GRAD-CAM,person,"chair_potted plant_microwave_oven_refrigerator_clock_vase"
+328,COCO_train2014_000000001966_blur-k-2-0.jpg,COCO_train2014_000000001966_blur-k-2-0_FEM_sup.jpg,blur-k-2-0,FEM,person,"person_sports ball_tennis racket"
+72,COCO_train2014_000000000419_blur-k-1.25-0.jpg,COCO_train2014_000000000419_blur-k-1.25-0_GRAD-CAM_sup.jpg,blur-k-1.25-0,GRAD-CAM,person,"person_car_sports ball_tennis racket"
+116,COCO_train2014_000000000531_blur-k-6-0.jpg,COCO_train2014_000000000531_blur-k-6-0_ML-FEM_sup.jpg,blur-k-6-0,ML-FEM,train,"person_bicycle_sports ball_tennis racket"
+31,COCO_train2014_000000000307_blur-k-2-0.jpg,COCO_train2014_000000000307_blur-k-2-0_FEM_sup.jpg,blur-k-2-0,FEM,dog,car_dog_frisbee
+65,COCO_train2014_000000000389_geometric-k-1-0.jpg,COCO_train2014_000000000389_geometric-k-1-0_ML-FEM_sup.jpg,geometric-k-1-0,ML-FEM,person,person_backpack_tie
+376,COCO_train2014_000000002270_noise-k-175-0.jpg,COCO_train2014_000000002270_noise-k-175-0_FEM_sup.jpg,noise-k-175-0,FEM,person,"cup_bowl_chair_couch_potted plant_book_vase"
+302,COCO_train2014_000000001822_noise-k-100-0.jpg,COCO_train2014_000000001822_noise-k-100-0_ML-FEM_sup.jpg,noise-k-100-0,ML-FEM,person,"person_bottle_cup_chair_couch_dining table_tv"
+114,COCO_train2014_000000000531_blur-k-6-0.jpg,COCO_train2014_000000000531_blur-k-6-0_GRAD-CAM_sup.jpg,blur-k-6-0,GRAD-CAM,train,"person_bicycle_sports ball_tennis racket"
+192,COCO_train2014_000000001145_blur-k-2-0.jpg,COCO_train2014_000000001145_blur-k-2-0_GRAD-CAM_sup.jpg,blur-k-2-0,GRAD-CAM,person,"person_bottle_cup_knife_spoon_bowl_chair_couch_potted plant_dining table_oven_refrigerator_book"
+62,COCO_train2014_000000000382_geometric-k-10-0.jpg,COCO_train2014_000000000382_geometric-k-10-0_ML-FEM_sup.jpg,geometric-k-10-0,ML-FEM,person,person_backpack_skis
+213,COCO_train2014_000000001403_brightness-k-175-0.jpg,COCO_train2014_000000001403_brightness-k-175-0_GRAD-CAM_sup.jpg,brightness-k-175-0,GRAD-CAM,giraffe,person_boat_bottle
+264,COCO_train2014_000000001670_blur-k-2-0.jpg,COCO_train2014_000000001670_blur-k-2-0_GRAD-CAM_sup.jpg,blur-k-2-0,GRAD-CAM,person,person_backpack_skis
+44,COCO_train2014_000000000332_brightness-k-175-0.jpg,COCO_train2014_000000000332_brightness-k-175-0_ML-FEM_sup.jpg,brightness-k-175-0,ML-FEM,"wine glass",cup_fork_bowl_carrot
+254,COCO_train2014_000000001558_geometric-k-1-0.jpg,COCO_train2014_000000001558_geometric-k-1-0_ML-FEM_sup.jpg,geometric-k-1-0,ML-FEM,bottle,cup_bowl_sandwich
+226,COCO_train2014_000000001510_blur-k-1.25-0.jpg,COCO_train2014_000000001510_blur-k-1.25-0_FEM_sup.jpg,blur-k-1.25-0,FEM,broccoli,"broccoli_dining table"
+337,COCO_train2014_000000001994_noise-k-100-0.jpg,COCO_train2014_000000001994_noise-k-100-0_FEM_sup.jpg,noise-k-100-0,FEM,person,"person_bottle_wine glass"
+375,COCO_train2014_000000002270_brightness-k-175-0.jpg,COCO_train2014_000000002270_brightness-k-175-0_GRAD-CAM_sup.jpg,brightness-k-175-0,GRAD-CAM,sheep,"cup_bowl_chair_couch_potted plant_book_vase"
+387,COCO_train2014_000000002284_brightness-k-25-0.jpg,COCO_train2014_000000002284_brightness-k-25-0_GRAD-CAM_sup.jpg,brightness-k-25-0,GRAD-CAM,toilet,bottle_cup_toilet_sink_toothbrush
+119,COCO_train2014_000000000532_noise-k-25-0.jpg,COCO_train2014_000000000532_noise-k-25-0_ML-FEM_sup.jpg,noise-k-25-0,ML-FEM,bus,person_bus_handbag
+135,COCO_train2014_000000000731_geometric-k-1-0.jpg,COCO_train2014_000000000731_geometric-k-1-0_GRAD-CAM_sup.jpg,geometric-k-1-0,GRAD-CAM,person,person_car_umbrella
+298,COCO_train2014_000000001822_brightness-k-25-0.jpg,COCO_train2014_000000001822_brightness-k-25-0_FEM_sup.jpg,brightness-k-25-0,FEM,couch,"person_bottle_cup_chair_couch_dining table_tv"
+437,COCO_train2014_000000002664_blur-k-2-0.jpg,COCO_train2014_000000002664_blur-k-2-0_ML-FEM_sup.jpg,blur-k-2-0,ML-FEM,bicycle,"person_bicycle_chair_dining table"
+364,COCO_train2014_000000002258_noise-k-100-0.jpg,COCO_train2014_000000002258_noise-k-100-0_FEM_sup.jpg,noise-k-100-0,FEM,person,person_airplane_truck
+87,COCO_train2014_000000000443_geometric-k-10-0.jpg,COCO_train2014_000000000443_geometric-k-10-0_GRAD-CAM_sup.jpg,geometric-k-10-0,GRAD-CAM,cat,person_cat_couch_remote
+295,COCO_train2014_000000001804_geometric-k-10-0.jpg,COCO_train2014_000000001804_geometric-k-10-0_FEM_sup.jpg,geometric-k-10-0,FEM,person,person_donut_refrigerator
+412,COCO_train2014_000000002429_noise-k-175-0.jpg,COCO_train2014_000000002429_noise-k-175-0_FEM_sup.jpg,noise-k-175-0,FEM,airplane,"cup_knife_bowl_banana_apple_chair_dining table_oven_sink_refrigerator"
+435,COCO_train2014_000000002664_geometric-k-5-0.jpg,COCO_train2014_000000002664_geometric-k-5-0_GRAD-CAM_sup.jpg,geometric-k-5-0,GRAD-CAM,bench,"person_bicycle_chair_dining table"
+177,COCO_train2014_000000001014_noise-k-175-0.jpg,COCO_train2014_000000001014_noise-k-175-0_GRAD-CAM_sup.jpg,noise-k-175-0,GRAD-CAM,giraffe,"person_backpack_sports ball_tennis racket"
+276,COCO_train2014_000000001756_blur-k-6-0.jpg,COCO_train2014_000000001756_blur-k-6-0_GRAD-CAM_sup.jpg,blur-k-6-0,GRAD-CAM,person,person_handbag_bottle_cup_chair_laptop
+259,COCO_train2014_000000001558_geometric-k-10-0.jpg,COCO_train2014_000000001558_geometric-k-10-0_FEM_sup.jpg,geometric-k-10-0,FEM,cup,cup_bowl_sandwich
+167,COCO_train2014_000000001011_brightness-k-100-0.jpg,COCO_train2014_000000001011_brightness-k-100-0_ML-FEM_sup.jpg,brightness-k-100-0,ML-FEM,"baseball bat",person_backpack_handbag_suitcase
+394,COCO_train2014_000000002284_blur-k-6-0.jpg,COCO_train2014_000000002284_blur-k-6-0_FEM_sup.jpg,blur-k-6-0,FEM,sink,bottle_cup_toilet_sink_toothbrush
+214,COCO_train2014_000000001403_blur-k-6-0.jpg,COCO_train2014_000000001403_blur-k-6-0_FEM_sup.jpg,blur-k-6-0,FEM,person,person_boat_bottle
+425,COCO_train2014_000000002608_brightness-k-25-0.jpg,COCO_train2014_000000002608_brightness-k-25-0_ML-FEM_sup.jpg,brightness-k-25-0,ML-FEM,book,"backpack_chair_couch_potted plant_laptop_mouse_keyboard_book"
+86,COCO_train2014_000000000443_blur-k-2-0.jpg,COCO_train2014_000000000443_blur-k-2-0_ML-FEM_sup.jpg,blur-k-2-0,ML-FEM,cat,person_cat_couch_remote
+290,COCO_train2014_000000001804_geometric-k-1-0.jpg,COCO_train2014_000000001804_geometric-k-1-0_ML-FEM_sup.jpg,geometric-k-1-0,ML-FEM,person,person_donut_refrigerator
+169,COCO_train2014_000000001011_blur-k-6-0.jpg,COCO_train2014_000000001011_blur-k-6-0_FEM_sup.jpg,blur-k-6-0,FEM,dog,person_backpack_handbag_suitcase
+67,COCO_train2014_000000000389_noise-k-100-0.jpg,COCO_train2014_000000000389_noise-k-100-0_FEM_sup.jpg,noise-k-100-0,FEM,tie,person_backpack_tie
+106,COCO_train2014_000000000510_brightness-k-175-0.jpg,COCO_train2014_000000000510_brightness-k-175-0_FEM_sup.jpg,brightness-k-175-0,FEM,giraffe,"person_traffic light_bench"
+11,COCO_train2014_000000000089_geometric-k-1-0.jpg,COCO_train2014_000000000089_geometric-k-1-0_ML-FEM_sup.jpg,geometric-k-1-0,ML-FEM,laptop,knife_microwave_oven_book
+316,COCO_train2014_000000001958_noise-k-25-0.jpg,COCO_train2014_000000001958_noise-k-25-0_FEM_sup.jpg,noise-k-25-0,FEM,couch,person_chair_couch_tv_remote
+411,COCO_train2014_000000002429_noise-k-175-0.jpg,COCO_train2014_000000002429_noise-k-175-0_GRAD-CAM_sup.jpg,noise-k-175-0,GRAD-CAM,airplane,"cup_knife_bowl_banana_apple_chair_dining table_oven_sink_refrigerator"
+165,COCO_train2014_000000001011_noise-k-100-0.jpg,COCO_train2014_000000001011_noise-k-100-0_GRAD-CAM_sup.jpg,noise-k-100-0,GRAD-CAM,"baseball bat",person_backpack_handbag_suitcase
+123,COCO_train2014_000000000532_geometric-k-10-0.jpg,COCO_train2014_000000000532_geometric-k-10-0_GRAD-CAM_sup.jpg,geometric-k-10-0,GRAD-CAM,bus,person_bus_handbag
+61,COCO_train2014_000000000382_blur-k-6-0.jpg,COCO_train2014_000000000382_blur-k-6-0_FEM_sup.jpg,blur-k-6-0,FEM,"cell phone",person_backpack_skis
+392,COCO_train2014_000000002284_noise-k-100-0.jpg,COCO_train2014_000000002284_noise-k-100-0_ML-FEM_sup.jpg,noise-k-100-0,ML-FEM,bench,bottle_cup_toilet_sink_toothbrush
+65,COCO_train2014_000000000389_brightness-k-25-0.jpg,COCO_train2014_000000000389_brightness-k-25-0_ML-FEM_sup.jpg,brightness-k-25-0,ML-FEM,person,person_backpack_tie
+85,COCO_train2014_000000000443_blur-k-2-0.jpg,COCO_train2014_000000000443_blur-k-2-0_FEM_sup.jpg,blur-k-2-0,FEM,cat,person_cat_couch_remote
+256,COCO_train2014_000000001558_brightness-k-100-0.jpg,COCO_train2014_000000001558_brightness-k-100-0_FEM_sup.jpg,brightness-k-100-0,FEM,chair,cup_bowl_sandwich
+242,COCO_train2014_000000001518_blur-k-6-0.jpg,COCO_train2014_000000001518_blur-k-6-0_ML-FEM_sup.jpg,blur-k-6-0,ML-FEM,car,"car_truck_traffic light_broccoli"
+283,COCO_train2014_000000001785_brightness-k-100-0.jpg,COCO_train2014_000000001785_brightness-k-100-0_FEM_sup.jpg,brightness-k-100-0,FEM,kite,"person_backpack_sports ball_kite"
+309,COCO_train2014_000000001926_noise-k-100-0.jpg,COCO_train2014_000000001926_noise-k-100-0_GRAD-CAM_sup.jpg,noise-k-100-0,GRAD-CAM,cat,cat_bottle_sink_toothbrush
+358,COCO_train2014_000000002217_noise-k-175-0.jpg,COCO_train2014_000000002217_noise-k-175-0_FEM_sup.jpg,noise-k-175-0,FEM,bird,bottle_bowl_sink
+444,COCO_train2014_000000002691_noise-k-100-0.jpg,COCO_train2014_000000002691_noise-k-100-0_GRAD-CAM_sup.jpg,noise-k-100-0,GRAD-CAM,person,person_cup_chair_tv_laptop_book
+278,COCO_train2014_000000001756_noise-k-175-0.jpg,COCO_train2014_000000001756_noise-k-175-0_ML-FEM_sup.jpg,noise-k-175-0,ML-FEM,"baseball bat",person_handbag_bottle_cup_chair_laptop
+416,COCO_train2014_000000002448_geometric-k-1-0.jpg,COCO_train2014_000000002448_geometric-k-1-0_ML-FEM_sup.jpg,geometric-k-1-0,ML-FEM,chair,"chair_potted plant_microwave_oven_refrigerator_clock_vase"
+222,COCO_train2014_000000001424_blur-k-6-0.jpg,COCO_train2014_000000001424_blur-k-6-0_GRAD-CAM_sup.jpg,blur-k-6-0,GRAD-CAM,motorcycle,"person_knife_cake_chair_potted plant_dining table_vase"
+400,COCO_train2014_000000002347_blur-k-2-0.jpg,COCO_train2014_000000002347_blur-k-2-0_FEM_sup.jpg,blur-k-2-0,FEM,tv,cup_bowl_chair_couch_tv_remote_book_vase
+138,COCO_train2014_000000000731_geometric-k-5-0.jpg,COCO_train2014_000000000731_geometric-k-5-0_GRAD-CAM_sup.jpg,geometric-k-5-0,GRAD-CAM,person,person_car_umbrella
+280,COCO_train2014_000000001785_brightness-k-25-0.jpg,COCO_train2014_000000001785_brightness-k-25-0_FEM_sup.jpg,brightness-k-25-0,FEM,kite,"person_backpack_sports ball_kite"
+179,COCO_train2014_000000001014_geometric-k-10-0.jpg,COCO_train2014_000000001014_geometric-k-10-0_ML-FEM_sup.jpg,geometric-k-10-0,ML-FEM,person,"person_backpack_sports ball_tennis racket"

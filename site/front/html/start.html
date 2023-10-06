@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Start</title>
+    <link rel="stylesheet" href="front/css/start-style.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js" integrity="sha512-SGWgwwRA8xZgEoKiex3UubkSkV1zSE1BS6O4pXcaxcNtUlQsOmOmhVnDwIvqGRfEmuz83tIGL13cXMZn6upPyg=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="front/js/csv-operation.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>window.addEventListener("load", () => {
+            readCsv();
+    });</script>
+
+
+
+</head>
+<body>
+<div class="container">
+    <div class="header"><p>Note d’information pour le participant à l’étude : Évaluation des cartes d’explication des décisions des réseaux profonds</p></div>
+    <div class="main">
+        <p class="sup_header">1. Contexte et Objectifs</p>
+        <p class="text">L’axe IA du LABRi représenté par ses membres Prof. Jenny Benois-Pineau,
+            MCF Romain Giot, stagiaire master Alexey Zhukov effectue le travail
+            de recherche sur l’explication des décisions des réseaux profonds en classification d’images.</p>
+        <p class="text">Dans le cadre de cette étude, des métriques automatiques d’évaluation des cartes d’explication ont été proposées.</p>
+        <p class="text">L’objectif de l’expérience à quelle, vous allez participer consiste à comparer les résultats d’évaluation obtenus par des méthodes automatiques avec l’évaluation par des personnes.</p>
+        <p class="sup_header">2. Protocole d’évaluation</p>
+
+        <p class="text"> Sur l'écran seront affichés :</p>
+        <ul style="list-style-type: '-'">
+            <li><p class="text"> Une image ;</p></li>
+            <li><p class="text"> Son résultat de classification en ensemble des classes connues, par exemple : paysage, chien, voiture ;</p></li>
+            <li><p class="text"> La carte de chaleur superposée sur l’image qui met en valeur par la couleur plus chaude (jaune, orange, rouge) les pixels dans l’image qui ont contribué le plus à la décision ;</p></li>
+            <li><p class="text"> L’échéancier selon l’échelle de Likert de la qualité de la carte d’explication ;</p></li>
+            <li><p class="text">Vous évaluez la qualité d'explication en cliquant sur un des boutons de l’échelle de Likert ;</p></li>
+            <li><p class="text"> La qualité de l'explication est bonne si : </p></li>
+            <ul style="list-style-type: circle">
+                <li><p class="text"> la classification correspond au contenu de l’image et que les zones des pixels qui, selon vous, correspondent à la classe en question sont affichées en couleurs chaudes ;</p></li>
+                <li><p class="text"> la classe attribuée par le classifier est mauvaise et la carte de chaleur est la plus chaude sur des pixels qui ne correspondent pas à la vraie classe de l’image ;</p></li>
+            </ul>
+            <li><p class="text"> La qualité de la carte d’explication est mauvaise si : </p></li>
+            <ul style="list-style-type: circle">
+                <li><p class="text"> la classification est correcte, mais les pixels sur lesquels la carte est la plus chaude ne correspondent pas aux pixels qui, selon vous, devait faire la décision de la classe ;</p></li>
+                <li><p class="text"> la classe attribuée par le classifier est mauvaise, mais les pixels affichés avec la couleur la plus chaude de la carte, correspondent à la vraie classe de l’image selon vous ;</p></li>
+            </ul>
+        </ul>
+        <p class="sup_header">3. Données collectées</p>
+        <p class="text">Nous allons recueillir votre tranche d'âge et les scores que vous allez attribuer à chaque carte de l’image.
+            Votre adresse mail et votre mot de passe seront aussi recueillis et conservés uniquement pendant 6 mois puis automatiquement détruits après la fin de cette période.
+            Toutes autres données permettant votre identification ne seront pas collectées.</p>
+        <p class="sup_header">4. Conservation de données</p>
+        <p class="text">Les données seront conservées sur les serveurs du LABRI pendant 10 ans ;</p>
+        <p class="text">Les données collectées : la tranche d'âge et les scores seront mis en libre-service.</p>
+        <br>
+        <p class="textstarter">Vous allez maintenant commencer la phase d'entrainement qui contient 3 paires d'images.</p>
+        <p class="textstarter">Puis, vous allez finir par la session d'évaluation qui sera indiquée après la session d'entrainement.</p>
+    </div>
+    <div class="footer">
+        <button id="button" type="submit" onclick="window.location.href='controller.php?to=experiment'"><p>Start</p></button>
+    </div>
+</div>
+</body>
+</html>

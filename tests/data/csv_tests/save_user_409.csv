@@ -1,0 +1,16 @@
+Key,Noisy_image,Sup_image,Distortion,Explanation_Method,Noisy_image_class,Original_image_class,Choices,Times
+413,COCO_train2014_000000002429_noise-k-175-0.jpg,COCO_train2014_000000002429_noise-k-175-0_ML-FEM_sup.jpg,noise-k-175-0,ML-FEM,airplane,"cup_knife_bowl_banana_apple_chair_dining table_oven_sink_refrigerator",1,4
+220,COCO_train2014_000000001424_blur-k-2-0.jpg,COCO_train2014_000000001424_blur-k-2-0_FEM_sup.jpg,blur-k-2-0,FEM,motorcycle,"person_knife_cake_chair_potted plant_dining table_vase",1,3
+196,COCO_train2014_000000001145_brightness-k-175-0.jpg,COCO_train2014_000000001145_brightness-k-175-0_FEM_sup.jpg,brightness-k-175-0,FEM,zebra,"person_bottle_cup_knife_spoon_bowl_chair_couch_potted plant_dining table_oven_refrigerator_book",1,3
+433,COCO_train2014_000000002664_brightness-k-25-0.jpg,COCO_train2014_000000002664_brightness-k-25-0_FEM_sup.jpg,brightness-k-25-0,FEM,bicycle,"person_bicycle_chair_dining table",4,4
+353,COCO_train2014_000000002217_brightness-k-25-0.jpg,COCO_train2014_000000002217_brightness-k-25-0_ML-FEM_sup.jpg,brightness-k-25-0,ML-FEM,sink,bottle_bowl_sink,2,10
+355,COCO_train2014_000000002217_brightness-k-100-0.jpg,COCO_train2014_000000002217_brightness-k-100-0_FEM_sup.jpg,brightness-k-100-0,FEM,airplane,bottle_bowl_sink,1,3
+338,COCO_train2014_000000001994_geometric-k-5-0.jpg,COCO_train2014_000000001994_geometric-k-5-0_ML-FEM_sup.jpg,geometric-k-5-0,ML-FEM,person,"person_bottle_wine glass",2,5
+394,COCO_train2014_000000002284_brightness-k-175-0.jpg,COCO_train2014_000000002284_brightness-k-175-0_FEM_sup.jpg,brightness-k-175-0,FEM,bird,bottle_cup_toilet_sink_toothbrush,1,3
+310,COCO_train2014_000000001926_geometric-k-5-0.jpg,COCO_train2014_000000001926_geometric-k-5-0_FEM_sup.jpg,geometric-k-5-0,FEM,sink,cat_bottle_sink_toothbrush,2,6
+398,COCO_train2014_000000002347_brightness-k-25-0.jpg,COCO_train2014_000000002347_brightness-k-25-0_ML-FEM_sup.jpg,brightness-k-25-0,ML-FEM,chair,cup_bowl_chair_couch_tv_remote_book_vase,1,5
+317,COCO_train2014_000000001958_noise-k-25-0.jpg,COCO_train2014_000000001958_noise-k-25-0_ML-FEM_sup.jpg,noise-k-25-0,ML-FEM,couch,person_chair_couch_tv_remote,1,9
+416,COCO_train2014_000000002448_brightness-k-25-0.jpg,COCO_train2014_000000002448_brightness-k-25-0_ML-FEM_sup.jpg,brightness-k-25-0,ML-FEM,"potted plant","chair_potted plant_microwave_oven_refrigerator_clock_vase",1,5
+321,COCO_train2014_000000001958_blur-k-6-0.jpg,COCO_train2014_000000001958_blur-k-6-0_GRAD-CAM_sup.jpg,blur-k-6-0,GRAD-CAM,chair,person_chair_couch_tv_remote,1,3
+301,COCO_train2014_000000001822_noise-k-100-0.jpg,COCO_train2014_000000001822_noise-k-100-0_FEM_sup.jpg,noise-k-100-0,FEM,person,"person_bottle_cup_chair_couch_dining table_tv",0,20
+226,COCO_train2014_000000001510_noise-k-25-0.jpg,COCO_train2014_000000001510_noise-k-25-0_FEM_sup.jpg,noise-k-25-0,FEM,broccoli,"broccoli_dining table",5,3

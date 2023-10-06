@@ -1,0 +1,33 @@
+# Disable directory browsing
+Options -Indexes
+
+DirectoryIndex connexion.html
+
+<FilesMatch "\.(html)$">
+  Order Deny,Allow
+  Deny from all
+  ErrorDocument 403 "Access-denied"
+</FilesMatch>
+
+#<FilesMatch "\.(php)$">
+#  Order Deny,Allow
+#  Deny from all
+#</FilesMatch>
+
+<FilesMatch "EVALUATION_notice-d_info-v4.0_07022023.html">
+  Order Allow,Deny
+  Allow from all
+</FilesMatch>
+
+<FilesMatch "connexion.html">
+  Order Allow,Deny
+  Allow from all
+</FilesMatch>
+
+<FilesMatch "controller.php">
+  Order Allow,Deny
+  Allow from all
+</FilesMatch>
+
+
+

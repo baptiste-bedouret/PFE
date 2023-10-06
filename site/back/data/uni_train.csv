@@ -1,0 +1,25 @@
+Key,Noisy_image,Sup_image,Distortion,Explanation_Method,Noisy_image_class,Original_image_class
+0,COCO_train2014_000000003671_blur-k-2-0.jpg,COCO_train2014_000000003671_blur-k-2-0_GRAD-CAM_sup.jpg,blur-k-2-0,GRAD-CAM,vase,cup_bowl_cake_dining table
+1,COCO_train2014_000000003671_blur-k-2-0.jpg,COCO_train2014_000000003671_blur-k-2-0_FEM_sup.jpg,blur-k-2-0,FEM,vase,cup_bowl_cake_dining table
+2,COCO_train2014_000000003671_blur-k-2-0.jpg,COCO_train2014_000000003671_blur-k-2-0_ML-FEM_sup.jpg,blur-k-2-0,ML-FEM,vase,cup_bowl_cake_dining table
+3,COCO_train2014_000000003729_blur-k-2-0.jpg,COCO_train2014_000000003729_blur-k-2-0_GRAD-CAM_sup.jpg,blur-k-2-0,GRAD-CAM,cat,cat_suitcase_bed
+4,COCO_train2014_000000003729_blur-k-2-0.jpg,COCO_train2014_000000003729_blur-k-2-0_FEM_sup.jpg,blur-k-2-0,FEM,cat,cat_suitcase_bed
+5,COCO_train2014_000000003729_blur-k-2-0.jpg,COCO_train2014_000000003729_blur-k-2-0_ML-FEM_sup.jpg,blur-k-2-0,ML-FEM,cat,cat_suitcase_bed
+0,COCO_train2014_000000003671_brightness-k-100-0.jpg,COCO_train2014_000000003671_brightness-k-100-0_GRAD-CAM_sup.jpg,brightness-k-100-0,GRAD-CAM,suitcase,cup_bowl_cake_dining table
+1,COCO_train2014_000000003671_brightness-k-100-0.jpg,COCO_train2014_000000003671_brightness-k-100-0_FEM_sup.jpg,brightness-k-100-0,FEM,suitcase,cup_bowl_cake_dining table
+2,COCO_train2014_000000003671_brightness-k-100-0.jpg,COCO_train2014_000000003671_brightness-k-100-0_ML-FEM_sup.jpg,brightness-k-100-0,ML-FEM,suitcase,cup_bowl_cake_dining table
+3,COCO_train2014_000000003729_brightness-k-100-0.jpg,COCO_train2014_000000003729_brightness-k-100-0_GRAD-CAM_sup.jpg,brightness-k-100-0,GRAD-CAM,cat,cat_suitcase_bed
+4,COCO_train2014_000000003729_brightness-k-100-0.jpg,COCO_train2014_000000003729_brightness-k-100-0_FEM_sup.jpg,brightness-k-100-0,FEM,cat,cat_suitcase_bed
+5,COCO_train2014_000000003729_brightness-k-100-0.jpg,COCO_train2014_000000003729_brightness-k-100-0_ML-FEM_sup.jpg,brightness-k-100-0,ML-FEM,cat,cat_suitcase_bed
+0,COCO_train2014_000000003671_geometric-k-5-0.jpg,COCO_train2014_000000003671_geometric-k-5-0_GRAD-CAM_sup.jpg,geometric-k-5-0,GRAD-CAM,bowl,cup_bowl_cake_dining table
+1,COCO_train2014_000000003671_geometric-k-5-0.jpg,COCO_train2014_000000003671_geometric-k-5-0_FEM_sup.jpg,geometric-k-5-0,FEM,bowl,cup_bowl_cake_dining table
+2,COCO_train2014_000000003671_geometric-k-5-0.jpg,COCO_train2014_000000003671_geometric-k-5-0_ML-FEM_sup.jpg,geometric-k-5-0,ML-FEM,bowl,cup_bowl_cake_dining table
+3,COCO_train2014_000000003729_geometric-k-5-0.jpg,COCO_train2014_000000003729_geometric-k-5-0_GRAD-CAM_sup.jpg,geometric-k-5-0,GRAD-CAM,suitcase,cat_suitcase_bed
+4,COCO_train2014_000000003729_geometric-k-5-0.jpg,COCO_train2014_000000003729_geometric-k-5-0_FEM_sup.jpg,geometric-k-5-0,FEM,suitcase,cat_suitcase_bed
+5,COCO_train2014_000000003729_geometric-k-5-0.jpg,COCO_train2014_000000003729_geometric-k-5-0_ML-FEM_sup.jpg,geometric-k-5-0,ML-FEM,suitcase,cat_suitcase_bed
+0,COCO_train2014_000000003671_noise-k-100-0.jpg,COCO_train2014_000000003671_noise-k-100-0_GRAD-CAM_sup.jpg,noise-k-100-0,GRAD-CAM,suitcase,cup_bowl_cake_dining table
+1,COCO_train2014_000000003671_noise-k-100-0.jpg,COCO_train2014_000000003671_noise-k-100-0_FEM_sup.jpg,noise-k-100-0,FEM,suitcase,cup_bowl_cake_dining table
+2,COCO_train2014_000000003671_noise-k-100-0.jpg,COCO_train2014_000000003671_noise-k-100-0_ML-FEM_sup.jpg,noise-k-100-0,ML-FEM,suitcase,cup_bowl_cake_dining table
+3,COCO_train2014_000000003729_noise-k-100-0.jpg,COCO_train2014_000000003729_noise-k-100-0_GRAD-CAM_sup.jpg,noise-k-100-0,GRAD-CAM,cat,cat_suitcase_bed
+4,COCO_train2014_000000003729_noise-k-100-0.jpg,COCO_train2014_000000003729_noise-k-100-0_FEM_sup.jpg,noise-k-100-0,FEM,cat,cat_suitcase_bed
+5,COCO_train2014_000000003729_noise-k-100-0.jpg,COCO_train2014_000000003729_noise-k-100-0_ML-FEM_sup.jpg,noise-k-100-0,ML-FEM,cat,cat_suitcase_bed
